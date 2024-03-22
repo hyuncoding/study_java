@@ -1,8 +1,5 @@
 # JAVA (WEB)
 > 웹개발 강의에서 공부한 Java 관련 내용입니다.
-> study_java repository의 공부 내용은 Java 1, 2 강의에서 공부한 내용인 반면,
-> 이 repository의 내용은 추후 Spring Boot를 활용한 Java 기반 웹개발을 배우기 위해
-> 공부한 내용이므로, Java의 기초 문법도 포함되어 있지만 보다 상위 과정의 내용도 있습니다.
 
 
 # DAY 01
