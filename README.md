@@ -1,5 +1,5 @@
-# JAVA
-> JAVA1, JAVA2 및 웹개발 강의에서 공부한 Java 관련 내용입니다.
+# JAVA (WEB)
+> 웹개발 및 JAVA1, JAVA2 강의에서 공부한 Java 관련 내용입니다.
 
 
 # DAY 01
