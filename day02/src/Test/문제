@@ -1,0 +1,9 @@
+Test01.java
+임의의 두 정수를 입력 받아 a, b에 저장한 뒤
+두 변수의 값을 교환하여 출력하기
+
+Test05.java - Scanner
+Test06.java - JOptionPane
+국어, 영어, 수학 점수를 입력 받아
+평균과 학점 출력하기
+
